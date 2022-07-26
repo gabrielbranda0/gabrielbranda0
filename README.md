@@ -11,8 +11,9 @@
 
  <div align="center">
    <a href="https://github.com/gabrielbranda0">
+    <img height="140em" display="inline-block" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielbranda0&layout=compact&langs_count=6&theme=onedark"/>
    <img height="140em" display="inline-block" src="https://github-readme-stats.vercel.app/api?username=gabrielbranda0&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
-   <img height="140em" display="inline-block" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielbranda0&layout=compact&langs_count=6&theme=onedark"/>
+  
 
 </div>
 <div style="display: inline_block" align="center"><br>
